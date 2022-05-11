@@ -1,0 +1,80 @@
+.h2{
+    margin: 0px;
+    color: ivory;
+    font-weight: bold;
+    font-size: 80px;
+    padding-top:400px ;
+    order: 1;
+    width: 400px; 
+       }
+.dop{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+    flex-wrap: wrap;
+
+
+ }      
+.dop a {
+    padding:35px;
+    padding-left: 40px;
+    padding-bottom: 150px;
+}
+.main1{
+    background-color: ivory;
+ 
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px;
+}
+.main2{
+    background-color: ivory;
+    padding-right: 30px;
+ 
+    padding: 40px;
+  display: flex;
+  flex-direction: row;
+    
+}
+.text1{
+    padding-left: 40px;
+    font-size: 1.5em;
+    padding-bottom: 20px;
+}
+.big{
+    padding: 20px;
+    display: flex;
+    justify-items: center;
+    max-width: 600px;
+}
+.contacts{
+    padding-left: 20px;
+    font-size: 1.5em;
+}
+.conta{
+    padding-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+    padding-left: 20px;
+}
+.main-snow{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.snowy{
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.snowy img{
+    padding: 20px;
+}
+.big img{
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    padding-left: 120px;
+}
